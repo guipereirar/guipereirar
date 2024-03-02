@@ -25,6 +25,4 @@
   <img align="center" alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 </div><br/>
 
-<p>Estudante de Desenvolvimento de Sistemas com pretenção de se graduar em Sistemas de Informação.</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=120&section=footer"/>
