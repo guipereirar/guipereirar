@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guipereirar&show_icons=true&count_private=true&hide_border=true&title_color=778899&icon_color=778899&text_color=c9d1d9&bg_color=ffffff" alt="Guilherme Pereira github stats" /> 
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipereirar&layout=compact&hide_border=true&title_color=778899&text_color=778899&bg_color=ffffff" />
-</div>
+
 
 ### Connect with me:
 
@@ -27,5 +27,5 @@
   <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
   
 </div><br/>
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=120&section=footer"/>
