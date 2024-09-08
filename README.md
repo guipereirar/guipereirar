@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Guilherme
+# 👋 Olá, meu nome é Guilherme.
 
 ## 🙋 Sobre mim
 
