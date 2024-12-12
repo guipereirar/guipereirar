@@ -2,9 +2,9 @@
 
 ## 🙋 Sobre mim
 
-- 💻 Estudante de programação, cursando Desenvolvimento de Sistemas (SENAI) e Ciência de Dados (UNIVESP).
-- 🌱 Atualmente estudando: Springboot, React e SQL.
-- 👀 Possuo interesse em: Python, Typescript, Cloud e Linux.
+- 💻 Estudante de programação, formado em Desenvolvimento de Sistemas (SENAI) e cursando Ciência de Dados (UNIVESP).
+- 🌱 Atualmente estudando: React e Linux.
+- 👀 Possuo interesse em: Python, Typescript e Cloud.
 - 📫 Contato: [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpereira383@gmail.com)](mailto:gpereira383@gmail.com)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpereirarosa/)](https://www.linkedin.com/in/gpereirarosa/)
 
 ## 🚀 Habilidades
