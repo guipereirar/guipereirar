@@ -2,7 +2,7 @@
 
 ## 🙋 Sobre mim
 
-- 💻 Estudante de programação, formado em Desenvolvimento de Sistemas (SENAI) e cursando Ciência de Dados (UNIVESP).
+- 💻 Estudante de programação, formado em Desenvolvimento de Sistemas e cursando Ciência de Dados.
 - 🌱 Atualmente estudando: Python.
 - 👀 Possuo interesse em: Typescript e Nest.js.
 - 📫 Contato: [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpereira383@gmail.com)](mailto:gpereira383@gmail.com)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpereirarosa/)](https://www.linkedin.com/in/gpereirarosa/)
