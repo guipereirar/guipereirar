@@ -13,7 +13,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ### 👨‍💻 Linguagens:
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,py)](https://skillicons.dev)
 
 ### 🧰 Frameworks:
 
@@ -25,6 +25,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ### ⚙️ Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,idea)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,idea,postman)](https://skillicons.dev)<br><br>
 
 ![Gui Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=guipereirar&show_icons=true&theme=dark)
